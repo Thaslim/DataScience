@@ -1,3 +1,3 @@
 # Machine-Learning
-Course assignments
+Course assignments:
 pushing archived files to github
